@@ -1,0 +1,16 @@
+[
+  {
+    "model": "svm",
+    "accuracy": 0.98,
+    "train_samples": 1347,
+    "test_samples": 450,
+    "split_seed": 42
+  },
+  {
+    "model": "knn",
+    "accuracy": 0.9644444444444444,
+    "train_samples": 1347,
+    "test_samples": 450,
+    "split_seed": 42
+  }
+]
