@@ -1,0 +1,4 @@
+model,accuracy,correct,errors,train_samples,test_samples,split_seed,k
+svm,0.98,441,9,1347,450,42,
+knn,0.9644444444444444,434,16,1347,450,42,5
+knn_tuned,0.9644444444444444,434,16,1347,450,42,5
