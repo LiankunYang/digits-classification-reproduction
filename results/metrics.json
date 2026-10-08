@@ -2,27 +2,14 @@
   {
     "model": "svm",
     "accuracy": 0.98,
-    "correct": 441,
     "errors": 9,
     "train_samples": 1347,
     "test_samples": 450,
-    "split_seed": 42,
-    "k": null
+    "split_seed": 42
   },
   {
     "model": "knn",
     "accuracy": 0.9644444444444444,
-    "correct": 434,
-    "errors": 16,
-    "train_samples": 1347,
-    "test_samples": 450,
-    "split_seed": 42,
-    "k": 5
-  },
-  {
-    "model": "knn_tuned",
-    "accuracy": 0.9644444444444444,
-    "correct": 434,
     "errors": 16,
     "train_samples": 1347,
     "test_samples": 450,
